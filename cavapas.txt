@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-bonjour c'est main.
+bonjour je suis
 =======
-bonjour c'est main.
+bonjour je suis
 >>>>>>> leane2
