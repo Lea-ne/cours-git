@@ -1,5 +1,2 @@
-<<<<<<< HEAD
+
 bonjour je suis
-=======
-bonjour je suis
->>>>>>> leane2
